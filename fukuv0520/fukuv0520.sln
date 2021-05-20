@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fukuv0520", "fukuv0520\fukuv0520.csproj", "{E7667A6E-3A26-47A1-AD2F-6DDD8C1F8998}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fukuv0520", "fukuv0520\fukuv0520.csproj", "{2C42D07F-D56B-4917-ADAA-6B2E60C2F736}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E7667A6E-3A26-47A1-AD2F-6DDD8C1F8998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7667A6E-3A26-47A1-AD2F-6DDD8C1F8998}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7667A6E-3A26-47A1-AD2F-6DDD8C1F8998}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7667A6E-3A26-47A1-AD2F-6DDD8C1F8998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C42D07F-D56B-4917-ADAA-6B2E60C2F736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C42D07F-D56B-4917-ADAA-6B2E60C2F736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C42D07F-D56B-4917-ADAA-6B2E60C2F736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C42D07F-D56B-4917-ADAA-6B2E60C2F736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6AFCA48F-6C4D-4368-82A5-4B299D9918E2}
+		SolutionGuid = {380585B3-5B2B-46DF-926D-BA45F2F5D728}
 	EndGlobalSection
 EndGlobal

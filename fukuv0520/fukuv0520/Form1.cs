@@ -29,7 +29,7 @@ namespace fukuv0520
 
         private void button3_Click(object sender, EventArgs e)
         {
-            button3.Left = 5; 
+            button3.Left = 3;
         }
     }
 }
